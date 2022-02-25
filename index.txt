@@ -1,0 +1,28 @@
+<div class="search-openjobs row collapse" id="collapserow'.$i.'">						  
+								<div class="search_panel1">							
+									<p>Job Description: '.htmlspecialchars_decode($resp_array->description).'</p>
+									<p class="pull-right"><a class="btn btn-primary-green" href=https://pinelabs.darwinbox.in/ms/candidate/careers/'.$job_id.'?apply=1 target="_blank">Apply for this job</a></p>
+								</div>       
+							</div>
+
+
+redirection
+shanu backend 
+captcha
+pdf logic
+career
+[18:16] Jyoti Tomar
+https://www.pinelabs.com/ajax/news_updates.php
+
+
+
+
+
+
+
+
+
+
+
+blog
+offer sheet
